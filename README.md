@@ -13,5 +13,5 @@
 # i.e.  To store user generated password as encrypted string our DB
 # Aes + GCM also gives us message authentication (integrity) = Authenticated Encyption
 
-# work in progress - will add CLI + user string input in the future
+# Work in progress - will add CLI + user string input in the future
 
