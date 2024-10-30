@@ -10,7 +10,7 @@
 
 # AES + GCM (combined mode) aleviates the AES size limitation
 # Say if we wanted to use random length user generated strings (often less than 16bytes) 
-# i.e.  To store user generated passwords as encrypted string our DB
+# i.e.  To store user generated password as encrypted string our DB
 # Aes + GCM also gives us message authentication (integrity) = Authenticated Encyption
 
 # work in progress - will add CLI + user string input in the future
